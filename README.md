@@ -1,4 +1,4 @@
-Hi, I’m @s-lom.
+Hi, I’m @JHsotem.
 
 I’m interested in Python and DataScience.
 
